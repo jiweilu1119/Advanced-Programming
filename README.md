@@ -1,5 +1,5 @@
 # Advanced-Programming
-### exercise文件夹: 预习作业+课堂练习
+### exercise文件夹: 课前+课堂+课后练习
 
 ### homework文件夹：课后作业
 
