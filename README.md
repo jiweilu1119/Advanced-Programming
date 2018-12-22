@@ -7,4 +7,4 @@
 
 ### group work: 小组作业
 
-### prework：课前预习
+### prepare：课前预习
