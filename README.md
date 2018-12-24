@@ -3,6 +3,6 @@
 
 ### homework文件夹：个人作业
 
-### group work: 小组作业
+### group work: 小组作业(季薇璐 何杨林：书法辞典+诗词宝典）
 
 ### jiweilu1119: 代码阅读
